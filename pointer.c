@@ -20,4 +20,8 @@ void sumProductAverage(int a,int b,int *sum,int *product,int *average){
 
 
 
+
+
+
+
 }
